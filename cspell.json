@@ -14,7 +14,8 @@
         "**/node_modules/**"
     ],
     "words": [
-        "textlint",
+        "markdownlint",
         "openapitools.json",
+        "textlint",
     ]
 }
