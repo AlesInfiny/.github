@@ -1,0 +1,22 @@
+{
+    "ignorePaths": [
+        ".git",
+        ".gitignore",
+        ".markdownlint-cli2.yaml",
+        ".markdownlint.yaml",
+        ".textlintignore",
+        ".textlintrc",
+        ".vscode",
+        "cspell.json",
+        "github.code-workspace",
+        "package.json",
+        "package-lock.json",
+        "**/node_modules/**"
+    ],
+    "words": [
+        "AlesInfiny",
+        "markdownlint",
+        "openapitools.json",
+        "textlint",
+    ]
+}

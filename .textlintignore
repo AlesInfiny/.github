@@ -1,0 +1,3 @@
+# Github の Issues や Pull requests のテンプレートファイルをテスト対象から除外
+.github/pull_request_template.md
+.github/ISSUE_TEMPLATE/*.md
