@@ -1,5 +1,4 @@
-<!-- markdownlint-disable CMD001 -->
-<!-- textlint-disable @textlint-rule/require-header-id, ja-technical-writing/sentence-length, @textlint-ja/no-synonyms, ja-technical-writing/max-ten, ja-technical-writing/no-doubled-joshi, ja-spacing/ja-space-between-half-and-full-width, ja-spacing/ja-space-around-link, ja-technical-writing/ja-no-mixed-period -->
+<!-- textlint-disable ja-technical-writing/sentence-length, @textlint-ja/no-synonyms, ja-technical-writing/max-ten, ja-technical-writing/no-doubled-joshi, ja-spacing/ja-space-between-half-and-full-width, ja-spacing/ja-space-around-link, ja-technical-writing/ja-no-mixed-period -->
 
 # コントリビューター行動規範
 
@@ -90,6 +89,5 @@ Contributor Covenant は [Creative Commons Attribution 4.0 International Public 
 - 違反報告フォームのリンクを挿入
 - 「帰属」にライセンス（ Creative Commons Attribution 4.0 International Public License ）を記載
 
-<!-- textlint-enable @textlint-rule/require-header-id, ja-technical-writing/sentence-length, @textlint-ja/no-synonyms, ja-technical-writing/max-ten, ja-technical-writing/no-doubled-joshi, ja-spacing/ja-space-between-half-and-full-width, ja-spacing/ja-space-around-link, ja-technical-writing/ja-no-mixed-period -->
-<!-- markdownlint-enable CMD001 -->
+<!-- textlint-enable ja-technical-writing/sentence-length, @textlint-ja/no-synonyms, ja-technical-writing/max-ten, ja-technical-writing/no-doubled-joshi, ja-spacing/ja-space-between-half-and-full-width, ja-spacing/ja-space-around-link, ja-technical-writing/ja-no-mixed-period -->
 <!-- cspell:ignore joshi -->
