@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "tableformatter.common.centerAlignedHeader": false,
+        "files.eol": "\n"
+    },
+    "extensions": {
+        "recommendations": [
+            "bierner.markdown-mermaid",
+            "davidanson.vscode-markdownlint",
+            "hediet.vscode-drawio",
+            "shuworks.vscode-table-formatter",
+            "taichi.vscode-textlint",
+            "yzhang.markdown-all-in-one"
+        ]
+    }
+}
