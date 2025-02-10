@@ -1,4 +1,4 @@
-## この Pull request で実施したこと (.github リポジトリ)
+## この Pull request で実施したこと
 
 この Pull request で何をしたのか記載します。
 
