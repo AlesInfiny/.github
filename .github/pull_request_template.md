@@ -1,3 +1,5 @@
+<!-- I want to review in Japanese. -->
+
 ## この Pull request で実施したこと
 
 この Pull request で何をしたのか記載します。
@@ -12,3 +14,5 @@
 
 関連する Issues や Discussion へのリンクを記載します。
 また、このプルリクエストを作成するにあたり参照した資料へのリンクを記載します。
+
+<!-- I want to review in Japanese. -->
