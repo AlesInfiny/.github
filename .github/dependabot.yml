@@ -34,3 +34,5 @@ updates:
         update-types:
           - "minor"
           - "patch"
+
+# cSpell:ignore cooldown
