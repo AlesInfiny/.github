@@ -1,5 +1,10 @@
 <!-- I want to review in Japanese. -->
 
+## （レビュアー向け）マージのルール
+
+feature ブランチを develop にマージする際は、 Squash マージしてください。
+それ以外の場合は、 Merge Commit を作成してください。
+
 ## この Pull request で実施したこと
 
 この Pull request で何をしたのか記載します。
